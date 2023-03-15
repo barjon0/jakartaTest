@@ -1,4 +1,3 @@
 # JakartaPersistenceApp
-A simple Jakarta Persistence application. [Video](https://youtu.be/jB2uSJX7jnM) and [written](https://blog.jetbrains.com/?p=114659/) instructions are available.
-
-[![JetBrains team project](http://jb.gg/badges/team.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+A simple Jakarta EE Application to maintain a small database on a application server with Jakarta Persistence.
+I used a GlassFish 6.2.5 local server and Advanced Rest Client for Chrome to execute Post- and Put-Requests.
