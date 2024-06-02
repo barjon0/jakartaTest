@@ -4,7 +4,17 @@ I used a GlassFish 6.2.5 local server and Advanced Rest Client for Chrome to exe
 
 # Run Application
 Clone Repository  
+Install Glassfish 6.2.5 https://glassfish.org/download  
+Install Advanced Rest Client https://www.advancedrestclient.com/install  
 Install dependencies from requirements.txt  
-Run GlassFish Server -> Run Advanced Rest Client in Chrome
+Run GlassFish Server -> Run Advanced Rest Client  
+Endpoints: "maintain/" :
+    "add"  
+    "read/{id}"  
+    "alter"  
+
 
 # Modules
+HelloResources implements GET, READ, ADD functions  
+persistance.xml sets up the Database  
+UserDatabase interacts wiht the Database
