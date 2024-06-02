@@ -6,7 +6,7 @@ I used a GlassFish 6.2.5 local server and Advanced Rest Client for Chrome to exe
 Clone Repository  
 Install Glassfish 6.2.5 https://glassfish.org/download  
 Install Advanced Rest Client https://www.advancedrestclient.com/install  
-Install dependencies from requirements.txt  
+Run pom.xml
 Run GlassFish Server -> Run Advanced Rest Client  
 Endpoints: "maintain/" :  
     "add"  
