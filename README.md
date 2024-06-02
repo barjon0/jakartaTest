@@ -8,7 +8,7 @@ Install Glassfish 6.2.5 https://glassfish.org/download
 Install Advanced Rest Client https://www.advancedrestclient.com/install  
 Install dependencies from requirements.txt  
 Run GlassFish Server -> Run Advanced Rest Client  
-Endpoints: "maintain/" :
+Endpoints: "maintain/" :  
     "add"  
     "read/{id}"  
     "alter"  
